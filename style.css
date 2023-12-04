@@ -1,0 +1,40 @@
+.main{
+    margin: 15px;
+    padding: 10px;
+    border: 3px solid green;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+} 
+.main div{
+    border: 3px solid navy;
+    background-color: crimson;
+    color: #ffffff;
+    width: 250px;
+    text-align: center;
+    margin: 5px;
+
+}
+img{
+    width: 150px;
+    height: 150px;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+.pickup{
+    background-color: orange;
+    color: blue;
+    border: 3px solid blue;
+    border-radius: 15px;
+    padding: 15px;
+    width: 250px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: fixed;
+    left: 600px;
+    top: 300px;
+    opacity: 0.3;
+}
